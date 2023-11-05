@@ -54,6 +54,8 @@ el propio GitHub y arrastrar los archivos manualmente, motivo por el cual no pud
 
 Al momento de mostrar la cotización en el index.jsx se observa el valor con 2 dígitos, pero al verlo desde el historial se
 agregan mas dígitos y no supe como corregir el error.
+
+El archivo JSON tuvo que ser movido a la carpeta Public porque no me reconocía la ruta para poder ser referenciado.
   
 Debido a la falta de tiempo por cuestiones personales me queda pendiente agregar ciertos detalles adicionales que me gustaría que tuviera
 el proyecto, como por ejemplo un reproductor de musica (intenté agregarlo pero no me reconocía la ruta del archivo .mp3, por lo que desistí).
